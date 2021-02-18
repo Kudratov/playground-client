@@ -4,7 +4,7 @@ import {connect} from 'react-redux';
 const Footer = (props) => {
   return (
     <div>
-      This is Footer
+      {/* This is Footer */}
     </div>
   )
 }

@@ -3,9 +3,9 @@ import {NavLink} from 'react-router-dom';
 
 const Header = () => {
     return (
-        <div>
-            This is Header
-        </div>
+        <nav class="navbar navbar-dark bg-primary">
+        <h3><a className="text-white" href="/">Home</a></h3>
+        </nav>
     )
 }
 
